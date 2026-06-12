@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">expo-updates-manifest-bug-mre</string>
+  <string name="app_name">expo-updates-manifest-bug-mre</string>
+  <string name="expo_runtime_version">1.0.0</string>
 </resources>

@@ -2,6 +2,17 @@
   "expo": {
     "name": "expo-updates-manifest-bug-mre",
     "slug": "expo-updates-manifest-bug-mre",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e88ff2b6-7288-43ab-a91e-79b7e4c22b17"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/e88ff2b6-7288-43ab-a91e-79b7e4c22b17"
+    },
+    "android": {},
+    "ios": {}
   }
 }
